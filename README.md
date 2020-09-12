@@ -16,6 +16,6 @@ I'm just a student that happen to know some programming.
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=AlbertosaurusrexDK&show_icons=true&hide_border=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertosaurusrexDK.AlbertosaurusrexDK)
 
 ⭐️ From [Albertosaurusrex](https://github.com/AlbertosaurusrexDK)
