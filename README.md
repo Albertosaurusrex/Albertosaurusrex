@@ -12,8 +12,8 @@
  
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=AlbertosaurusrexDK&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Albertosaurusrex&show_icons=true&hide_border=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertosaurusrexDK.AlbertosaurusrexDK)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Albertosaurusrex.Albertosaurusrex)
 
-⭐️ From [Albertosaurusrex](https://github.com/AlbertosaurusrexDK)
+⭐️ From [Albertosaurusrex](https://github.com/Albertosaurusrex)
