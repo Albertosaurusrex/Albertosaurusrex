@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue!**
 
-- 📫 How to reach me **albe3508@elev.tec.dk**
+- 📫 Reach me at **albe3508@elev.tec.dk**
 
 
 <h3 align="left">Connect with me:</h3>
