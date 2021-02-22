@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertosaurusrex" alt="albertosaurusrex" /> </p>
 
-- 🌱 I’m currently learning **Vue!**
+- 🌱 I’m currently refreshing **Python!**
 
 - 📫 Reach me at **albe3508@elev.tec.dk**
 
