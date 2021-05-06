@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertosaurusrex" alt="albertosaurusrex" /> </p>
 
-- 🌱 I’m currently refreshing **Python!**
-
+- 🌱 I’m currently refreshing Python and experimenting with Rust!
+ 
 - 📫 Reach me at **albe3508@elev.tec.dk**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertosaurusrex&layout=compact&bg_color=ffffff00&hide_border=true" alt="albertosaurusrex" /></p>
