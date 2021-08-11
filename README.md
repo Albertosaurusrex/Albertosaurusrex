@@ -8,3 +8,4 @@
 - 📫 Reach me at **albe3508@elev.tec.dk**
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertosaurusrex&layout=compact&bg_color=ffffff00&hide_border=true" alt="albertosaurusrex" /></p>
